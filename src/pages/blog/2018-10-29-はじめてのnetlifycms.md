@@ -16,6 +16,6 @@ tags:
 
 私でもできる
 
-```
+```java
 public static void main(){  //シンタックスハイライトはつかないみたい}
 ```
